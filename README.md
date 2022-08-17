@@ -2,7 +2,6 @@
 
 
 - 🔭 Graduanda em Ciência da Computação - UFCG
-- 🌱 Estudando desenvolvimento web
 
 <div align="center">
   <a href="https://github.com/deborafb">
