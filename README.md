@@ -1,7 +1,7 @@
 ### Oi! Sou a Débora Barros 
 
 
-- 🔭 Graduanda em Ciência da Computação - UFCG
+- 🔭 Bacharela em Ciência da Computação - UFCG
 
 <div align="center">
   <a href="https://github.com/deborafb">
